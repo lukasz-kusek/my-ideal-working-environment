@@ -1,4 +1,44 @@
 = My ideal working environment
-:icons: font
 
-NOTE: a
++++ Smart people who feel the need of continuous improvement and are not afraid of new technologies/methodologies
+
++++ Team not just a collection of individuals
+
++-+ 9-5 programmer/daycoders/Daytime Developers in a team
+
++++ People following "Clean code"/"Clean coder" principles, Agile/XP/DevOps practices, etc. Not just "willing to have in the future" or "have heard of".
+
++++ Automation, automation, automation (continuous  integration, continuous  deployment, automated release management, automated testing)
+
++++ Linux desktop environment
+
++++ Trading/Investment banking business
+
++++ Power napping room
+
+== Technology
++++ Java
+
++++ Clojure (I have no commercial experiance)
+
++++ KDB/q (I have no commercial experiance)
+
++++ Git (GitHub, Stash)
+
++++ Gradle/Maven/Leiningen
+
++++ Jenkins/TeamCity/Bamboo, etc.
+
++-+ JEE
+
++-+ .NET, C#
+
++-+ GUI (Swing)
+
++-+ Web UI (JSP, JSF, JavaScript, HTML)
+
++-+ Ant
+
++-+ make
+
++-+ VersionOne
