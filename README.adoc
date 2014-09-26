@@ -19,9 +19,9 @@
 == Technology
 +++ Java
 
-+++ Clojure (I have no commercial experiance)
++++ Clojure (no commercial experiance required)
 
-+++ KDB/q (I have no commercial experiance)
++++ KDB/q (no commercial experiance required)
 
 +++ Git (GitHub, Stash)
 
