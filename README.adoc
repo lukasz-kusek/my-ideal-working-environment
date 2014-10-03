@@ -58,6 +58,8 @@ Inspired by The Joel Test (http://wearebase.com/the-joel-test-and-our-engineerin
 
 * Do you use issue tracking software? Which one?
 
+* Are your version control, issue tracking, work tracking, deployment tools integrated?
+
 * Is planning done on a regular basis?
 
 * Are requirements and design decisions managed and properly understood by the whole team?
@@ -83,5 +85,7 @@ Inspired by The Joel Test (http://wearebase.com/the-joel-test-and-our-engineerin
 ** "Chaos Monkey"?
 
 * Do new candidates write code as a part of interview process? During or before?
+
+* Do new candidates review code during their interview?
 
 * Is the customer represented within your process to provide regular feedback on your product?
