@@ -44,3 +44,44 @@
 +-+ make
 
 +-+ VersionOne
+
+== Test
+Inspired by The Joel Test (http://wearebase.com/the-joel-test-and-our-engineering-process/) and The Programmer's Bill of Rights (http://blog.codinghorror.com/the-programmers-bill-of-rights/).
+
+* Do you use distributed version control system? Which one?
+
+* Do you use build automation tool? Which one?
+
+* Can you make a deployment into your DEV, UAT, QA environment in one step?
+
+* Do you make builds after each commit?
+
+* Do you use issue tracking software? Which one?
+
+* Is planning done on a regular basis?
+
+* Are requirements and design decisions managed and properly understood by the whole team?
+
+* Do programmers have productive working conditions?
+
+** Do programmers have a monitor setting best suited for his or her task? What's the setting?
+** Do programmers have a fast PC?
+** Do programmers have their choice of mouse and keyboard?
+** Do programmers a comfortable chair?
+** Do programmers have a fast internet connection?
+** Do programmers have quiet working conditions?
+** Do programmers use a software / operating system of their choice?
+** Do programmers have an access to power napping / rest room?
+
+* Do you have fully automated tests?
+
+** Unit?
+** Integration?
+** Performance?
+** Regression?
+** Acceptance?
+** "Chaos Monkey"?
+
+* Do new candidates write code as a part of interview process? During or before?
+
+* Is the customer represented within your process to provide regular feedback on your product?
