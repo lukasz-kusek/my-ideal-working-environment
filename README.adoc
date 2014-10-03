@@ -46,7 +46,7 @@
 +-+ VersionOne
 
 == Test (https://www.quicksurveys.com/s/Hq8a4B5[Survey])
-Inspired by The Joel Test (http://www.joelonsoftware.com/articles/fog0000000043.html) and The Programmer's Bill of Rights (http://blog.codinghorror.com/the-programmers-bill-of-rights/).
+Inspired by http://www.joelonsoftware.com/articles/fog0000000043.html[The Joel Test] and http://blog.codinghorror.com/the-programmers-bill-of-rights/[The Programmer's Bill of Rights].
 
 * Do you use distributed version control system? Which one?
 
