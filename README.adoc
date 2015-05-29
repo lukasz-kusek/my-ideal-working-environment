@@ -2,6 +2,8 @@
 
 +++ Smart people who feel the need of continuous improvement and are not afraid of new technologies/methodologies
 
++++ Software craftsmen using their tools, not fighting against them
+
 +++ Team not just a collection of individuals
 
 +-+ 9-5 programmer/daycoders/Daytime Developers in a team
@@ -14,10 +16,10 @@
 
 +++ Trading/Investment banking business
 
-+++ Power napping room
-
 == Technology
-+++ Java 7/8
++++ Java 8
+
++++ Scala (no commercial experiance required)
 
 +++ Clojure (no commercial experiance required)
 
@@ -29,7 +31,7 @@
 
 +++ Jenkins/TeamCity/Bamboo, etc.
 
-+-+ Java 5/6
++-+ Java 5/6/7
 
 +-+ JEE
 
