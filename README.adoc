@@ -17,13 +17,7 @@
 +++ Trading/Investment banking business
 
 == Technology
-+++ Java 8
-
-+++ Scala (no commercial experiance required)
-
-+++ Clojure (no commercial experiance required)
-
-+++ KDB/q (no commercial experiance required)
++++ Java (low level Core Java), Scala, Haskell, Clojure, KDB/q, Rust, Pony
 
 +++ Git (GitHub, Stash)
 
@@ -31,7 +25,7 @@
 
 +++ Jenkins/TeamCity/Bamboo, etc.
 
-+-+ Java 5/6/7
++-+ Java 5/6
 
 +-+ JEE
 
@@ -47,7 +41,7 @@
 
 +-+ VersionOne
 
-== Test (https://www.quicksurveys.com/s/Hq8a4B5[Survey])
+== Test
 Inspired by http://www.joelonsoftware.com/articles/fog0000000043.html[The Joel Test] and http://blog.codinghorror.com/the-programmers-bill-of-rights/[The Programmer's Bill of Rights].
 
 * Do you use distributed version control system? Which one?
@@ -75,7 +69,6 @@ Inspired by http://www.joelonsoftware.com/articles/fog0000000043.html[The Joel T
 ** Do programmers have a fast internet connection?
 ** Do programmers have quiet working conditions?
 ** Do programmers use a software / operating system of their choice?
-** Do programmers have an access to power napping / rest room?
 
 * Do you have fully automated tests?
 
