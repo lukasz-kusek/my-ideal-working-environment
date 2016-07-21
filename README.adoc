@@ -1,30 +1,56 @@
 = Draft
 |===
-|scrum / kanban / ...|
-|team goal / priorities set by whole team|
-|backend / frontend|
-|architecture / technologies / languages used|
-|Email tool|
-|chat (bots)|
-|collocated / remote / home working|
-|team size|
-|roles in a team|
-|does business / PO sit close to the team|
-|issue tracking software / planning board / ...|
-|version control tool|
-|Intellij|
-|build tool (maven/...)|
-|continous integration / continous delivery / ... (tools)|
-|release process (approval process)|
-|workstation (linux?)|
-|laptop/PC (processor, RAM, SSD drive)|
-|log search tool|
-|monitoring tools|
-|deployment env: cloud or servers|
-|SSH access to servers|
-|testing strategy (levels, tools)|
-|meeting rooms (availability)|
-|team whiteboard|
-|photo of the office|
-|most challenging requiremnt (low latency, high performance, scalability, security, high availability, complex domain)|
+|scrum / kanban / ... |
+
+|team goal / priorities set by whole team |
+
+|backend / frontend |
+
+|architecture / technologies / languages used |
+
+|Email tool |
+
+|chat (bots) |
+
+|collocated / remote / home working |
+
+|team size |
+
+|roles in a team |
+
+|does business / PO sit close to the team |
+
+|issue tracking software / planning board / ... |
+
+|version control tool |
+
+|Intellij |
+
+|build tool (maven/...) |
+
+|continous integration / continous delivery / ... (tools) |
+
+|release process (approval process) |
+
+|workstation (linux?) |
+
+|laptop/PC (processor, RAM, SSD drive) |
+
+|log search tool |
+
+|monitoring tools |
+
+|deployment env: cloud or servers |
+
+|SSH access to servers |
+
+|testing strategy (levels, tools) |
+
+|meeting rooms (availability) |
+
+|team whiteboard |
+
+|photo of the office |
+
+|most challenging requiremnt (low latency, high performance, scalability, security, high availability, complex domain) |
 |===
