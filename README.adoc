@@ -1,3 +1,4 @@
+[cols="1,1"]
 |===
 | Question | Answer
 
@@ -5,53 +6,53 @@
 
 |team goal / priorities set by whole team |
 
-|backend / frontend |.
+|backend / frontend |
 
-|architecture / technologies / languages used |.
+|architecture / technologies / languages used |
 
-|Email tool |.
+|Email tool |
 
-|chat (bots) |.
+|chat (bots) |
 
-|collocated / remote / home working |.
+|collocated / remote / home working |
 
-|team size |.
+|team size |
 
-|roles in a team |.
+|roles in a team |
 
-|does business / PO sit close to the team |.
+|does business / PO sit close to the team |
 
-|issue tracking software / planning board / ... |.
+|issue tracking software / planning board / ... |
 
-|version control tool |.
+|version control tool |
 
-|Intellij |.
+|Intellij |
 
-|build tool (maven/...) |.
+|build tool (maven/...) |
 
-|continous integration / continous delivery / ... (tools) |.
+|continous integration / continous delivery / ... (tools) |
 
-|release process (approval process) |.
+|release process (approval process) |
 
-|workstation (linux?) |.
+|workstation (linux?) |
 
-|laptop/PC (processor, RAM, SSD drive) |.
+|laptop/PC (processor, RAM, SSD drive) |
 
-|log search tool |.
+|log search tool |
 
-|monitoring tools |.
+|monitoring tools |
 
-|deployment env: cloud or servers |.
+|deployment env: cloud or servers |
 
-|SSH access to servers |.
+|SSH access to servers |
 
-|testing strategy (levels, tools) |.
+|testing strategy (levels, tools) |
 
-|meeting rooms (availability) |.
+|meeting rooms (availability) |
 
-|team whiteboard |.
+|team whiteboard |
 
-|photo of the office |.
+|photo of the office |
 
-|most challenging requiremnt (low latency, high performance, scalability, security, high availability, complex domain) |.
+|most challenging requiremnt (low latency, high performance, scalability, security, high availability, complex domain) |
 |===
