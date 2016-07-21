@@ -1,7 +1,9 @@
 |===
-|scrum / kanban / ... |.
+| Question | Answer
 
-|team goal / priorities set by whole team |.
+|Scrum / kanban / ... |
+
+|team goal / priorities set by whole team |
 
 |backend / frontend |.
 
