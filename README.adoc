@@ -1,86 +1,30 @@
-= My ideal working environment
-
-+++ Smart people who feel the need of continuous improvement and are not afraid of new technologies/methodologies
-
-+++ Software craftsmen using their tools, not fighting against them
-
-+++ Team not just a collection of individuals
-
-+-+ 9-5 programmer/daycoders/Daytime Developers in a team
-
-+++ People following "Clean code"/"Clean coder" principles, Agile/XP/DevOps practices, etc. Not just "willing to have in the future" or "have heard of".
-
-+++ Automation, automation, automation (continuous  integration, continuous  deployment, automated release management, automated testing)
-
-+++ Linux desktop environment
-
-+++ Trading/Investment banking business
-
-== Technology
-+++ Java (low level Core Java), Scala, Haskell, Clojure, KDB/q, Rust, Pony
-
-+++ Git (GitHub, Stash)
-
-+++ Gradle/Maven/Leiningen
-
-+++ Jenkins/TeamCity/Bamboo, etc.
-
-+-+ Java 5/6
-
-+-+ JEE
-
-+-+ .NET, C#
-
-+-+ GUI (Swing)
-
-+-+ Web UI (JSP, JSF, JavaScript, HTML)
-
-+-+ Ant
-
-+-+ make
-
-+-+ VersionOne
-
-== Test
-Inspired by http://www.joelonsoftware.com/articles/fog0000000043.html[The Joel Test] and http://blog.codinghorror.com/the-programmers-bill-of-rights/[The Programmer's Bill of Rights].
-
-* Do you use distributed version control system? Which one?
-
-* Do you use build automation tool? Which one?
-
-* Can you make a deployment into your DEV, UAT, QA environment in one step?
-
-* Do you make builds after each commit?
-
-* Do you use issue tracking software? Which one?
-
-* Are your version control, issue tracking, work tracking, deployment tools integrated?
-
-* Is planning done on a regular basis?
-
-* Are requirements and design decisions managed and properly understood by the whole team?
-
-* Do programmers have productive working conditions?
-
-** Do programmers have a monitor setting best suited for his or her task? What's the setting?
-** Do programmers have a fast PC?
-** Do programmers have their choice of mouse and keyboard?
-** Do programmers a comfortable chair?
-** Do programmers have a fast internet connection?
-** Do programmers have quiet working conditions?
-** Do programmers use a software / operating system of their choice?
-
-* Do you have fully automated tests?
-
-** Unit?
-** Integration?
-** Performance?
-** Regression?
-** Acceptance?
-** "Chaos Monkey"?
-
-* Do new candidates write code as a part of interview process? During or before?
-
-* Do new candidates review code during their interview?
-
-* Is the customer represented within your process to provide regular feedback on your product?
+= Draft
+|===
+|scrum / kanban / ...|
+|team goal / priorities set by whole team|
+|backend / frontend|
+|architecture / technologies / languages used|
+|Email tool|
+|chat (bots)|
+|collocated / remote / home working|
+|team size|
+|roles in a team|
+|does business / PO sit close to the team|
+|issue tracking software / planning board / ...|
+|version control tool|
+|Intellij|
+|build tool (maven/...)|
+|continous integration / continous delivery / ... (tools)|
+|release process (approval process)|
+|workstation (linux?)|
+|laptop/PC (processor, RAM, SSD drive)|
+|log search tool|
+|monitoring tools|
+|deployment env: cloud or servers|
+|SSH access to servers|
+|testing strategy (levels, tools)|
+|meeting rooms (availability)|
+|team whiteboard|
+|photo of the office|
+|most challenging requiremnt (low latency, high performance, scalability, security, high availability, complex domain)|
+|===
