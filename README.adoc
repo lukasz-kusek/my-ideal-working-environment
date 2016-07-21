@@ -2,6 +2,19 @@
 |===
 | Question | Answer
 
+|Will I be interviewed by people form the team? |
+
+|Location (postcode) |
+
+|Rate |
+
+|Duration |
+|===
+
+[cols="1,1"]
+|===
+| Question | Answer
+
 |Scrum / kanban / ... |
 
 |team goal / priorities set by whole team |
