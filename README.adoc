@@ -48,6 +48,8 @@
 |Are priorities set by business only or business and the team? |
 
 |Do business / PO sit close to the team? |
+
+|Does the team have an autonomy or have to follow standardization? Is it balanced?|
 |===
 
 = What tools do you use?
