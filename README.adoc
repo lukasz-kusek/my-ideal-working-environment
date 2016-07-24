@@ -5,6 +5,8 @@
 
 |Will I be interviewed by the team? |
 
+|How long is the onboarding process (background checks, etc.)? |
+
 |Location (postcode) |
 
 |Rate |
