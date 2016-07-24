@@ -1,8 +1,8 @@
-[cols="1,1"]
+= General
 |===
 | Question | Answer
 
-|Will I be interviewed by people form the team? |
+|Will I be interviewed by the team? |
 
 |Location (postcode) |
 
@@ -11,61 +11,78 @@
 |Duration |
 |===
 
-[cols="1,1"]
+= Project
 |===
 | Question | Answer
 
-|Scrum / kanban / ... |
+|Is it a backend / frontend / frontend & backend software? |
 
-|team goal / priorities set by whole team |
+|What is the architecture of the system? |
 
-|backend / frontend |
+|What technologies are used? |
 
-|architecture / technologies / languages used |
+|What languages are used? |
 
-|Email tool |
+|What is most challenging requirement of the project (low latency, high performance, scalability, security, high availability, complex domain, ...)? |
 
-|chat (bots) |
+|How does the testing strategy (levels, tools) look like? |
 
-|collocated / remote / home working |
+|How does the release process (approval process) look like? Is it automated? |
+|===
 
-|team size |
+= Team
+|===
+| Question | Answer
 
-|roles in a team |
+|How big is the team? |
 
-|does business / PO sit close to the team |
+|What roles are in the team? |
 
-|issue tracking software / planning board / ... |
+|What development process/framework/method do you use? |
 
-|version control tool |
+|Is the team collocated / remote / home working? |
 
-|Intellij |
+|Are priorities set by business only or business and the team? |
 
-|build tool (maven/...) |
+|Do business / PO sit close to the team? |
+|===
 
-|continous integration / continous delivery / ... (tools) |
+= What tools do you use?
+|===
+| Question | Answer
 
-|release process (approval process) |
+|Builds (Maven/...) |
 
-|workstation (linux?) |
+|Continuous integration / Continuous delivery / ... |
 
-|laptop/PC (processor, RAM, SSD drive) |
+|Monitoring |
 
-|log search tool |
+|Log search |
 
-|monitoring tools |
+|Version control |
 
-|deployment env: cloud or servers |
+|Issue tracking software / planning board / ... |
 
-|SSH access to servers |
+|Intellij IDEA |
 
-|testing strategy (levels, tools) |
+|Email |
 
-|meeting rooms (availability) |
+|Chat |
 
-|team whiteboard |
+|Video |
+|===
 
-|photo of the office |
+= Working conditions
+|===
+| Question | Answer
 
-|most challenging requiremnt (low latency, high performance, scalability, security, high availability, complex domain) |
+|What OS can be used on developer's machine? |
+
+|Do developers use laptops or PC? |
+
+|What is a specification of machines used by developers (processor, RAM, SSD drive)? |
+
+|How easy is to book a meeting room? (availability) |
+
+|Do teams have have whiteboards for they own use? |
 |===
