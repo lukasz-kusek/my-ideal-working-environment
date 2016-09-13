@@ -87,11 +87,13 @@
 
 |What OS can be used on developer's machine? |
 
-|Do developers use laptops or PC? |
+|Do developers use laptops or PCs? |
 
 |What is a specification of machines used by developers (processor, RAM, SSD drive)? |
 
 |How easy is to book a meeting room? (availability) |
 
 |Do teams have have whiteboards for they own use? |
+
+|Do you use hot-desking? |
 |===
