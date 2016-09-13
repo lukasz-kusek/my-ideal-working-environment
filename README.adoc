@@ -99,3 +99,6 @@
 
 |Work from home/Work from office ratio? |
 |===
+
+= Sample code
+Provide sample source code
