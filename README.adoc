@@ -96,4 +96,6 @@
 |Do teams have have whiteboards for they own use? |
 
 |Do you use hot-desking? |
+
+|Work from home/Work from office ratio? |
 |===
